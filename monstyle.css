@@ -1,0 +1,75 @@
+#menu1
+{
+	font-family: Arial, sans-serif;
+	text-decoration: none;
+	color: #03224C
+}
+  #menu1:hover
+  {
+  	color:#FAFAFA;
+  	font-weight: bold;
+  	text-decoration: underline;
+  }
+  #menu1:visited
+  {
+  	font-weight: bold;
+  	text-decoration: underline;
+  }
+
+  #text1
+  {
+  	font-family: Arial ;
+  }
+  #tab
+  {
+  	background-color: #CED8F6;
+  	
+  }
+  #text2
+  {
+  	font-family: Andale Mono, monospace ;
+  	color: #03224C;
+  }
+  #text3
+  {
+  	text-align: center;
+  	color: #03224C;
+  	font-family: Arial ;
+  }
+  #menu2 a
+  {
+  	text-decoration: none;
+  	color: #FAFAFA;
+  	font-family: Arial, sans-serif;
+  }
+  #menu2 a:hover
+  {
+  	color: #EF9B0F
+  }
+  #space
+  {
+  	color: #FAFAFA
+  }
+
+
+
+    button {
+      display: inline-block;
+      background-color: #03224C;
+      border-radius: 40px;
+     
+      color: #EF9B0F;
+      text-align: center;
+      font-size: 28px;
+      padding: 20px;
+      width: 200px;
+      transition: all 0.5s;
+      cursor: pointer;
+      margin: 5px;
+      }
+       button:hover {
+      background-color: #EF9B0F;
+      color: #03224C
+      }
+     
+
